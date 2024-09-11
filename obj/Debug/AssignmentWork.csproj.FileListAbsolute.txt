@@ -1,0 +1,10 @@
+C:\Users\arafa\source\repos\AssignmentWork\bin\Debug\AssignmentWork.exe.config
+C:\Users\arafa\source\repos\AssignmentWork\bin\Debug\AssignmentWork.exe
+C:\Users\arafa\source\repos\AssignmentWork\bin\Debug\AssignmentWork.pdb
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.csproj.AssemblyReference.cache
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.Form1.resources
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.Properties.Resources.resources
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.csproj.GenerateResource.cache
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.csproj.CoreCompileInputs.cache
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.exe
+C:\Users\arafa\source\repos\AssignmentWork\obj\Debug\AssignmentWork.pdb
